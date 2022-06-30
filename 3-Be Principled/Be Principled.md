@@ -114,10 +114,11 @@ if (automaticDoor.isClosed()) {
 软件开发中一条非常普遍的规律便是，任何软件系统（包括模块、组件、单元、类、函数等等）应该有较强的凝聚性。一般而言，当模块所做的工作有良好的定义时，它的凝聚性是强的。
 
 <figure class="cohesion">
-    <img src="./pic/oop2.png" width="32%">
-    <img src="./pic/oop1.png" width="32%">
-    <img src="./pic/oop3.png" width="32%">
+    <img src="./pic/2.png" width="30%">
+    <img src="./pic/1.png" width="30%">
+    <img src="./pic/3.png" width="30%">
 </figure>
+
 
 
 这三个例子中，前两个凝聚性低，后一个凝聚性高。箭头表示模块间的依赖关系。
